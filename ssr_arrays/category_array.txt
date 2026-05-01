@@ -1,3 +1,4 @@
+<!-- source https://prom.ua/ua/Kosmeticheskie-sredstva-po-uhodu-za-kozhej-litsa --!>
 <script type="application/javascript">
                     window._NEW_CATALOG_UI_SSR = true;
                     window._SSR_SKIPPED=false;
