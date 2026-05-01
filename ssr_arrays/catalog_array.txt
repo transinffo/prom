@@ -1,3 +1,4 @@
+<!-- source https://prom.ua/ua/consumer-goods --!>
 <script type="application/javascript">
                     window._NEW_CATALOG_UI_SSR = true;
                     window._SSR_SKIPPED=false;
